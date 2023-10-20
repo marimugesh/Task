@@ -23,7 +23,7 @@ public class Log4jApplication {
 		log.error("Error");
 		log.warn("Warning");
 		log.fatal("Critical Error");
-		log.debug("Debugging");
+		log.debug("Debuggingg");
 		
 		PropertyConfigurator.configure("log4j.properties"  );
 		log.info("Informtion");
